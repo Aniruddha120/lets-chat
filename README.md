@@ -8,7 +8,7 @@
   - [Installation](#installation)
 - [Usage](#usage)
   - [Running Let's Chat](#running-lets-chat)
-- [Why PaLM API?](#Why PaLM API?)
+- [Why PaLM API?](#Why-PaLM-API?)
 
 ## Introduction
 
