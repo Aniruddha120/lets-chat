@@ -1,4 +1,4 @@
-# Let's Chat💬 - A Chatbot Powered by Bard API
+# Let's Chat💬 - A Chatbot Powered by PaLM API
 
 ## Table of Contents
 - [Introduction](#introduction)
