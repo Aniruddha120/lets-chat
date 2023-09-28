@@ -8,11 +8,11 @@
   - [Installation](#installation)
 - [Usage](#usage)
   - [Running Let's Chat](#running-lets-chat)
-  - [Interacting with Let's Chat](#interacting-with-lets-chat)
+- [Why PaLM API?](#Why PaLM API?)
 
 ## Introduction
 
-"Let's Chat💬" is a chatbot powered by the Bard API, designed to make conversations with AI more engaging and interactive. Whether you want to have a casual chat or use it for a specific purpose, "Let's Chat" aims to provide a seamless and enjoyable experience.
+"Let's Chat💬" is a chatbot powered by the Bard API, designed to make conversations with AI more engaging and interactive. Whether you want a casual chat or use it for a specific purpose, "Let's Chat" aims to provide a seamless and enjoyable experience.
 
 Preview: https://huggingface.co/spaces/Aniruddha120/lets-chat 
 
@@ -53,4 +53,10 @@ Running Let's Chat
 To start "Let's Chat," run the following command:
 
     streamlit run app.py
+
+### Why PaLM API?
+
+It's free, easy to use, and Powerful.
+
+For free per number of token fees, the name of the model that came into my mind was LLAMA-2. But, it must be hosted in a cloud server and will charge fees. There is currently no free option to get LLAMA via API. But PaLM can be accessed via API without any charges. 
    
