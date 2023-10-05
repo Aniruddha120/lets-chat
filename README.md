@@ -14,7 +14,7 @@
 
 "Let's Chat💬" is a chatbot powered by the Bard API, designed to make conversations with AI more engaging and interactive. Whether you want a casual chat or use it for a specific purpose, "Let's Chat" aims to provide a seamless and enjoyable experience.
 
-Preview: https://huggingface.co/spaces/Aniruddha120/lets_chat
+Preview: https://huggingface.co/spaces/Aniruddha120/lets-chat
 
 ## Features
 
